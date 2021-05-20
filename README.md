@@ -1,6 +1,6 @@
 # Lidar-using-VL53L1X   [Video link](https://www.youtube.com/watch?v=SAVLdp1tNpg)
 
-In this project we are inteded to use the ST's VL53L1X ToF distance ranging sensor as a Lidar scanner.
+In this project I was inteded to use the ST's VL53L1X ToF distance ranging sensor as a Lidar scanner.
 
 
 Hardware:
